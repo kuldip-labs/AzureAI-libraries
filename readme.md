@@ -6,6 +6,10 @@
  * azure-ai-inference: A unified API client allowing developers to call and compare various foundational models (such as Meta, Mistral, and Cohere) deployed via Foundry serverless API endpoints or GitHub Models.
  * azure-ai-evaluation: Built specifically for evaluating Generative AI systems, providing automated metrics to measure quality, performance, and safety.
 
+ ### Azure AI vision Library
+ * azure-cognitiveservices-vision-computervision: The azure-cognitiveservices-vision-computervision library is the legacy, deprecated Azure SDK for Python used to interact with the older Azure Computer Vision service (v3.x APIs)
+ * azure-ai-vision-imageanalysis: Modern (latest lib) Instead of managing separate endpoints or methods for OCR (read), object detection, or tagging, a single client request can perform all analysis tasks at once
+
  ### Data, Search, & Grounding Libraries
  
  * azure-search-documents (Azure AI Search): Used to manage search indexes, upload datasets, and run vector, keyword, or hybrid search queries crucial for Retrieval-Augmented Generation (RAG).

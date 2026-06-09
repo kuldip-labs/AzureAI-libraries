@@ -17,6 +17,5 @@
  * azure-ai-documentintelligence: Specializes in extracting structured layouts, text, tables, and fields from formal documents like tax forms, receipts, and IDs.
 
  ### Specialized Ecosystem & Language Extensions
- * Azure OpenAI Client Library: Companion libraries that configure official OpenAI SDKs to safely point to enterprise Azure OpenAI Service endpoints.
- * Microsoft.Extensions.AI (.NET ecosystem): A standardized set of core C# abstractions (like IChatClient and IEmbeddingGenerator) allowing seamless switching between local and cloud model backends.
- * Teams AI Library: Used to seamlessly combine Azure AI Search capabilities with Microsoft Teams for building custom workspace co-pilots.
+ * openai: Companion libraries that configure official OpenAI SDKs to safely point to enterprise Azure OpenAI Service endpoints.
+ * msteams-sdk: Teams AI Library: Used to seamlessly combine Azure AI Search capabilities with Microsoft Teams for building custom workspace co-pilots.
